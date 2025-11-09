@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 
 const phrases = [
-  "Forging Code ⚔️",
-  "Building Empires 🏰",
-  "Crafting Legends 🐺",
-  "Create Aesthetics 💫"
+  "Code ⚔️",
+  "Empires 🏰",
+  "Crafting 🐺",
+  "Aesthetics 💫"
 ];
 
 export default function AnimatedText() {
@@ -21,3 +21,4 @@ export default function AnimatedText() {
     </h2>
   );
 }
+
